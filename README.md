@@ -158,8 +158,10 @@ respectively target image.
 <tr><td>57.9kb</td><td>5.45kb</td></tr>
 <tr><td>1024x640</td><td>135x160</td></tr>
 <tr>
-<td style="vertical-align: top;"><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06.jpg" width="128px"/></td>
-<td style="vertical-align: top;"><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/gray/06-1.jpg" width="128px"/></td>
+<td style="vertical-align: top;">
+  <img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06.jpg" width="128px"/></td>
+<td style="vertical-align: top;">
+  <img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06-1.jpg" width="128px"/></td>
 </tr>
 </table>
 </td>
