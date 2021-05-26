@@ -202,12 +202,12 @@ the table as training, of course will recognize more image like this.
 </tr>
 <tr>
 <td style="text-align:right;background-color: #ccc;"><b>Image: </b></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09-6.jpg" width="128px"/></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09-1.jpg" width="128px"/></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09-2.jpg" width="128px"/></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09-3.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/09-6.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/09-1.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/09-2.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/09-3.jpg" width="128px"/></td>
 <td><span>&lt;==&gt;</span></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/09.jpg" width="128px"/></td>
 </tr>
 </table>
 
@@ -222,12 +222,12 @@ the table as training, of course will recognize more image like this.
 </tr>
 <tr>
 <td style="text-align:right;background-color: #ccc;"><b>Image: </b></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01-3.jpg" width="128px"/></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01-7.jpg" width="128px"/></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01-5.jpg" width="128px"/></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01-8.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/01-3.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/01-7.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/01-5.jpg" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/01-8.jpg" width="128px"/></td>
 <td><span>&lt;==&gt;</span></td>
-<td><img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01.jpg" alt="image not found" width="128px"/></td>
+<td><img src="https://raw.githubusercontent.com/Jazping/images/20210526/01.jpg" alt="image not found" width="128px"/></td>
 </tr>
 </table>
 
