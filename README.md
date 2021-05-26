@@ -36,9 +36,9 @@ respectively target image.
 <tr><td>1920x1080</td><td>93x144</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/01-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -50,9 +50,9 @@ respectively target image.
 <tr><td>900x1150</td><td>197x256</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/02.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/02.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/02-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/02-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -65,9 +65,9 @@ respectively target image.
 <tr><td>709x1024</td><td>162x256</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/03.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/03.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/03-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/03-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -83,9 +83,9 @@ respectively target image.
 <tr><td>1024x768</td><td>220x192</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/07.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/07.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/07-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/07-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -97,9 +97,9 @@ respectively target image.
 <tr><td>1024x768</td><td>216x192</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/08.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/08.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/08-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/08-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -112,9 +112,9 @@ respectively target image.
 <tr><td>1826x1027</td><td>146x144</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/09-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -130,9 +130,9 @@ respectively target image.
 <tr><td>1024x714</td><td>256x179</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/04.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/04.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/04-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/04-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -144,9 +144,9 @@ respectively target image.
 <tr><td>1024x768</td><td>103x192</td></tr>
 <tr>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/05.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/05.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/05-1.jpg" width="128px"/></td>
+<img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/05-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
@@ -159,9 +159,9 @@ respectively target image.
 <tr><td>1024x640</td><td>135x160</td></tr>
 <tr>
 <td style="vertical-align: top;">
-  <img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06.jpg" width="128px"/></td>
+  <img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06.jpg" width="120px"/></td>
 <td style="vertical-align: top;">
-  <img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06-1.jpg" width="128px"/></td>
+  <img src="https://raw.githubusercontent.com/Jazping/images/4de0261aef634e73b67bb4488f6efb611e76bd4d/20210526/06-1.jpg" width="120px"/></td>
 </tr>
 </table>
 </td>
